@@ -1,1 +1,3 @@
 # Bubbling-Game
+<br>
+I created an interactive bubble game with JavaScript, HTML, and CSS. In this engaging task, players must click on bubbles that are constantly changing in colour and location in order to get points. The score increases with each successful click, and the bubbles change to challenge you. The game's adaptable design makes it easy to play on a variety of displays. It provides an interesting experience with lively animations and fun sound effects. Try your dexterity and team up with friends to get the best score in this dynamic bubble-popping game. With each click, see how fast you can adjust to the moving bubbles and watch as your score soars!
